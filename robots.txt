@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: https://pkv.games.attractmode.org/sitemap.xml
